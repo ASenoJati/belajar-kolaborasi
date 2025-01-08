@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-yoi
+Belajar Kolaborasi dari update-readme
