@@ -1,2 +1,1 @@
-# belajar-kolaborasi
-Belajar Kolaborasi dari update-readme
+# Belajar Kolaborasi
